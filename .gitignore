@@ -1,1 +1,15 @@
-.DS_store
+*/*
+!README.md
+!LICENSE
+!*/README.md
+!*.py
+!**/cargs/
+!**/args/
+!**/cout/
+!**/evaluation/
+!**/noise/
+!**/lagan/
+**/lagan/*
+!**/lagan/*.py
+**/*test*
+.DS_Store
