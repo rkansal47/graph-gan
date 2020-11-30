@@ -2,7 +2,7 @@
 
 
 
-1) Download the dataset from https://zenodo.org/record/3601436#.X8U0Sy2ZOJ8
+1) Download the dataset from https://zenodo.org/record/3601436
 
 2) Preprocess into our data format using [preprocessing.py](jets/preprocessing.py)
 
